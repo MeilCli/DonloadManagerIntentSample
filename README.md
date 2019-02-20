@@ -1,1 +1,2 @@
 # DonloadManagerIntentSample
+DownloadManagerでDLしたファイルをIntentで共有するサンプル
